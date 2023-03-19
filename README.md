@@ -33,3 +33,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" title="kubernetes" alt="kubernetes" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" title="intellij IDEA" alt="intellij" width="40" height="40" />
 </div>
+
+<!--
+-->
+
+---
+### 📌 Soft skills:
+Communication, compromise, critical thinking, leadership, resilience, listening, teamwork, time management, conflict resolution, negotiation, positivity, work ethic.
